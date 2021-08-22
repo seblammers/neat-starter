@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: "Ha! "
     url: "#"
-  - text: Menu Two
+  - text: "Hi! "
     url: "#"
-  - text: Menu Three
+  - text: "A bout of the life "
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
