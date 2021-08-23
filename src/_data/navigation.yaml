@@ -3,7 +3,5 @@ items:
     url: "#"
   - text: "Hi! "
     url: "#"
-  - text: "A bout of the life "
-    url: "#"
   - text: Blog
     url: /blog
